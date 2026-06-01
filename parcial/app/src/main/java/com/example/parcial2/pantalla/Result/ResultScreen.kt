@@ -1,4 +1,4 @@
-package com.example.parcial2.pantalla
+package com.example.parcial2.pantalla.Result
 
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.padding

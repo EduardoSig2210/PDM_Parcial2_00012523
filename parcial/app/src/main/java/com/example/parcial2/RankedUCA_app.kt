@@ -6,7 +6,8 @@ import androidx.navigation3.runtime.rememberNavBackStack
 import androidx.navigation3.ui.NavDisplay
 import com.example.parcial2.Screens
 import com.example.parcial2.pantalla.HomeScreen
-import com.example.parcial2.pantalla.ResultScreen
+import com.example.parcial2.pantalla.Result.ResultScreen
+
 
 @Composable
 fun RankedUca_App(){
