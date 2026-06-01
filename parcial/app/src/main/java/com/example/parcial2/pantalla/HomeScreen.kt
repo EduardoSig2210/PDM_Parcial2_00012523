@@ -41,7 +41,7 @@ fun HomeScreen() {
 
         Button(
             colors = ButtonDefaults.buttonColors(
-                containerColor = Color(0xF2FFE8BF),
+                containerColor = Color(0xFF3C3786),
                 contentColor = Color.White
             ),
 
@@ -55,7 +55,7 @@ fun HomeScreen() {
 
             }
         ) {
-            Text("Iniciar Sesion", color = Color.Black)
+            Text("Ir a resultados", color = Color.Black)
         }
     }
 }
