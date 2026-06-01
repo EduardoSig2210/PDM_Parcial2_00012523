@@ -1,4 +1,4 @@
-package com.example.parcial2.data.local
+package com.example.parcial2.data.DTO
 
 data class Restaurante(
     val id: Int,
